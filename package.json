@@ -1,0 +1,17 @@
+{
+  "name": "new-test_server",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Semen Zelenskiy <semen.zelenskiy@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "http-server": "^0.12.1",
+    "tsscmp": "^1.0.6"
+  }
+}
