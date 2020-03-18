@@ -10,8 +10,5 @@
   "author": "Semen Zelenskiy <semen.zelenskiy@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "basic-auth": "^2.0.1",
-    "http-server": "^0.12.1",
-    "tsscmp": "^1.0.6"
   }
 }
