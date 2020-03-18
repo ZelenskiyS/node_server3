@@ -1,1 +1,1 @@
-Try go to /database url
+Try go to ./database url
